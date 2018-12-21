@@ -14,3 +14,7 @@ required = [
 [[constraint]]
   name = "github.com/goreleaser/goreleaser"
   version = "v0.77.2"
+
+[[constraint]]
+  branch = "master"
+  name = "k8s.io/code-generator"
